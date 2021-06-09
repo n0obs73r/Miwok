@@ -24,6 +24,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:gravity="bottom"
+            android:paddingBottom="6dp"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@android:color/white"
             android:textStyle="bold"
@@ -32,6 +33,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:paddingTop="6dp"
             android:layout_weight="1"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"
